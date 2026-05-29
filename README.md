@@ -19,7 +19,5 @@ It darkens the main Wintertodt play area, including the raised floor sections an
 - This plugin is only intended for Wintertodt
 - The effect is visual only
 - This plugin is not compatible with 117 HD 
-- There may be flashes when moving around but those should stabilize once you are in the game area. (caused by reloading new tiles)
-
 
 <img width="1118" height="654" alt="2026-05-29_11-41-34" src="https://github.com/user-attachments/assets/b905437e-c210-46f6-b069-c5c5805bcc25" />
